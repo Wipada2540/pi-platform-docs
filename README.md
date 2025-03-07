@@ -1,4 +1,5 @@
-# Frontend Javascript SDK
+<script src="https://sdk.minepi.com/pi-sdk.js"></script>
+<script>Pi.init({ version: "2.0" })</script># Frontend Javascript SDK
 
 The JS SDK is the frontend SDK, designed to be used in your HTML pages or Single-Page Apps, served in the Pi Browser.
 
